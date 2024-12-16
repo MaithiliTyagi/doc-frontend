@@ -1,12 +1,12 @@
 [
   {
-    "id": 1,
-    "name": "ABC Hospital",
-    "address": "123 Main St",
-    "phone": "123-456-7890",
-    "type": "Hospital",
-    "image": "https://th.bing.com/th/id/OIP.js_m--7-FZoWCNrtRA-kQwHaFj?w=233&h=180&c=7&r=0&o=5&pid=1.7",
-    "rating": 4.5
+    "id": 1, // Unique identifier for the hospital/clinic
+    "name": "ABC Hospital", // Name of the hospital
+    "address": "123 Main St", // Address of the hospital
+    "phone": "123-456-7890", // Contact phone number
+    "type": "Hospital", // Type (Hospital or Clinic)
+    "image": "https://th.bing.com/th/id/OIP.js_m--7-FZoWCNrtRA-kQwHaFj?w=233&h=180&c=7&r=0&o=5&pid=1.7", // Image URL of the hospital/clinic
+    "rating": 4.5 // Rating of the hospital/clinic
   },
   {
     "id": 2,
